@@ -281,12 +281,12 @@ The submission:
 
   The submission (check boxes after you complete each step):
 
-    - [ ] you added your name to the top comments of the python file
-    - [ ] runs without syntax errors (or -50%)
-    - [ ] adds a few small but informative comments (or -5%)
-    - [ ] adds docstrings to each function (or -5%)
-    - [ ] Passes all tests (or lose points per missed test). If you do not pass all tests, do not check this box
-    - [ ] You checked the correct boxes
+    - [X] you added your name to the top comments of the python file
+    - [X] runs without syntax errors (or -50%)
+    - [X] adds a few small but informative comments (or -5%)
+    - [X] adds docstrings to each function (or -5%)
+    - [X] Passes all tests (or lose points per missed test). If you do not pass all tests, do not check this box
+    - [X] You checked the correct boxes
 
 ## Submitting
 
